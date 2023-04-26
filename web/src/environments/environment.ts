@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: true,
+  production: false,
   base_url: "https://animecross.run-us-west2.goorm.site/",
   version: "v3.0.1"
 };
