@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  base_url: "https://animecross.run-us-west2.goorm.site/",
+  base_url: "https://animecross.run-us-west2.goorm.site",
   version: "v3.0.1"
 };
 
